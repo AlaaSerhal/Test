@@ -1,5 +1,2 @@
-*.pyc
-*.ipynb_checkpoints
-__pycache__
-.vscode/
 
+.ipynb_checkpoints/local_inference_test-checkpoint.ipynb
